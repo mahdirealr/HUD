@@ -1,0 +1,8 @@
+hud.danger_hud_label("Fire Danger Levels")
+hud.fire_hud_label("Fires:")
+hud.forest_hud_label("Healthy Forest")
+hud.forest_hud_burned(2)
+hud.forest_hud_healthy(7)
+hud.danger_hud(true)
+hud.forest_hud(true)
+hud.fire_hud(true)
